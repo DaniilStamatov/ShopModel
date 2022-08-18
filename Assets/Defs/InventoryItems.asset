@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dbac462761d92549bacec1efd560ebd, type: 3}
+  m_Name: InventoryItems
+  m_EditorClassIdentifier: 
+  _items:
+  - _id: Axe
+    _icon: {fileID: 21300000, guid: b3379dfbd47568344bccd644c3bdf8ee, type: 3}
+    _price: 10
+  - _id: Bow
+    _icon: {fileID: 21300000, guid: af838e5920baaaa4cbb24dab99c4458d, type: 3}
+    _price: 20
+  - _id: Shield
+    _icon: {fileID: 21300000, guid: 9b818d245957cad458722c2d2aff7ed7, type: 3}
+    _price: 100
+  - _id: Two Handed Sword
+    _icon: {fileID: 21300000, guid: dbd0e81ba08974441932c1b53abce311, type: 3}
+    _price: 400
+  - _id: OrkBow
+    _icon: {fileID: 21300000, guid: 668df6f48e59c80439fa587624e5a84d, type: 3}
+    _price: 230
+  - _id: Staff
+    _icon: {fileID: 21300000, guid: 98ceb165e895b7f47ab880e0d1c64104, type: 3}
+    _price: 1000
+  - _id: Sword
+    _icon: {fileID: 21300000, guid: 5bfb766ff8d9482479248b2c48378889, type: 3}
+    _price: 50
